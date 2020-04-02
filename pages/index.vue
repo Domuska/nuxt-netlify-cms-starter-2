@@ -6,6 +6,7 @@
     <a href="https://github.com/xdesro/nuxt-netlify-cms-starter">GitHub</a>
     <a href="http://i.ncredibly.online">Twitter</a>
     <nuxt-link to="/blog">Blog</nuxt-link>
+    <nuxt-link to="/cats">Cats</nuxt-link>
     <div class="deploy-button">
       <a
         href="https://app.netlify.com/start/deploy?repository=https://github.com/xdesro/nuxt-netlify-cms-starter"
